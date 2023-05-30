@@ -1,5 +1,6 @@
 - 👀 I’m interested in python,R,Java
-- 🌱 I’m currently learning data science ,
+- 🌱 I’m currently learning data science 
+-👨‍💻 All of my projects are available at my repositories
 - 📫 You can reach me @ k.k.v.dinesh33@gmail.com
 
 <!---
