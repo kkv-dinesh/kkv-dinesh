@@ -34,9 +34,9 @@ I am committed to continuous learning and staying at the forefront of data scien
 
 Connect with me on:
 
-- **LinkedIn:** [https://www.linkedin.com/in/dinesh-k-k-v-b61524224/]
-- **Email:** [kkvdinesh1009@gmail.com]
-- **HackerRank:** [https://www.hackerrank.com/profile/dineshkkv]
+- **LinkedIn:** [Dinesh K K V](https://www.linkedin.com/in/dinesh-k-k-v-b61524224/)
+- **Email:** [kkvdinesh1009@gmail.com](mailto:kkvdinesh1009@gmail.com)
+- **HackerRank:** [dineshkkv](https://www.hackerrank.com/profile/dineshkkv)
 
 I am available for collaboration and always ready to engage in conversations about data science, software development, and innovative projects. Let's connect and build something amazing together! 🚀
 
