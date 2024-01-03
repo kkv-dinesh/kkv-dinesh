@@ -5,12 +5,7 @@ Python enthusiast and data analyst passionate about using data manipulation skil
 
 ## 🚀 Technical Proficiency
 
-In terms of technical skills, I excel in:
-
-- **Programming Languages:** Python
-- **Databases:** MySQL
-- **Data Visualization:** Power BI
-- **Other Tools:** HTML, CSS, Excel
+In terms of technical skills, I excel in using Python for various data manipulation tasks, utilizing MySQL for database management, and harnessing the power of Power BI for effective data visualization.
 
 ## 🔧 Language and Tools
 
@@ -25,7 +20,7 @@ I wield the power of:
 
 ## 🌟 Project Highlights
 
-Explore my projects in my [GitHub repository](Link to Your GitHub Repository). Each project reflects my dedication to delivering impactful solutions using a combination of Python, MySQL, and Power BI.
+Explore my projects in my [GitHub repository](https://github.com/kkv-dinesh?tab=repositories). Each project reflects my dedication to delivering impactful solutions using a combination of Python, MySQL, and Power BI.
 
 ## 🤝 Collaboration and Communication
 
@@ -39,13 +34,12 @@ I am committed to continuous learning and staying at the forefront of data scien
 
 Connect with me on:
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
-- **Instagram:** [Your Instagram Handle]
-- **HackerRank:** [Your HackerRank Profile]
+- **LinkedIn:** [https://www.linkedin.com/in/dinesh-k-k-v-b61524224/]
+- **Email:** [kkvdinesh1009@gmail.com]
+- **HackerRank:** [https://www.hackerrank.com/profile/dineshkkv]
 
 I am available for collaboration and always ready to engage in conversations about data science, software development, and innovative projects. Let's connect and build something amazing together! 🚀
 
 --- 
 
-Feel free to adapt and modify the template further to suit your preferences.
+
