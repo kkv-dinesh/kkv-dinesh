@@ -22,11 +22,11 @@ I wield the power of:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
   <img width="12" />
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.imgbin.com/17/4/11/imgbin-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-0YHFrh9kfbym0sY2unTTdUaEC.jpg" height="40" alt="powerbi logo" />
+    <img src="https://www.vhv.rs/dpng/d/611-6114310_microsoft-power-bi-logo-png-picture-power-bi.png" height="40" alt="powerbi logo" />
   </a>
   <img width="12" />
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://pluspng.com/img-png/excel-logo-png-microsoftexcel-logo-1-ms-excel-logo-transparent-free-840x516.jpg" height="40" alt="excel logo" />
+    <img src="https://i.pinimg.com/236x/b4/47/ff/b447ff91c4591008383512eec64d1d96.jpg?nii=t" height="40" alt="excel logo" />
   </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
