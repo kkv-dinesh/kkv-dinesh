@@ -1,4 +1,3 @@
-
 ## 👋 About Me
 
 Python enthusiast and data analyst passionate about using data manipulation skills for informed decision-making. Collaborative team player with a mission to contribute to success through delivering actionable, data-driven solutions.
@@ -9,18 +8,19 @@ In terms of technical skills, I excel in using Python for various data manipulat
 
 ## 🔧 Language and Tools
 
-I wield the power of:
-
-- **Python**
-- **MySQL**
-- **HTML**
-- **CSS**
-- **Power BI**
-- **Excel**
+- [🐍 Python](https://www.python.org)
+- [📊 MySQL](https://www.mysql.com)
+- [🌐 HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [🎨 CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [📈 Power BI](https://powerbi.microsoft.com)
+- [📊 Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ## 🌟 Project Highlights
 
 Explore my projects in my [GitHub repository](https://github.com/kkv-dinesh?tab=repositories). Each project reflects my dedication to delivering impactful solutions using a combination of Python, MySQL, and Power BI.
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=kkv-dinesh&show_icons=true&theme=radical)  
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=kkv-dinesh&theme=radical)
 
 ## 🤝 Collaboration and Communication
 
@@ -32,14 +32,4 @@ I am committed to continuous learning and staying at the forefront of data scien
 
 ## 🌐 Let's Connect
 
-Connect with me on:
-
-- **LinkedIn:** [Dinesh K K V](https://www.linkedin.com/in/dinesh-k-k-v-b61524224/)
-- **Email:** [kkvdinesh1009@gmail.com](mailto:kkvdinesh1009@gmail.com)
-- **HackerRank:** [dineshkkv](https://www.hackerrank.com/profile/dineshkkv)
-
-I am available for collaboration and always ready to engage in conversations about data science, software development, and innovative projects. Let's connect and build something amazing together! 🚀
-
---- 
-
-
+🔗 [LinkedIn](https://www.linkedin.com/in/dinesh-k-k-v-b61524224/) | 📧 [Email](mailto:kkvdinesh1009@gmail.com) | 💻 [HackerRank](https://www.hackerrank.com/profile/dineshkkv)  
