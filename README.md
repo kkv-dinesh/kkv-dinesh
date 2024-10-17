@@ -21,13 +21,13 @@ I wield the power of:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
   <img width="12" />
-  <a href="https://powerbi.microsoft.com/" target="_blank">
+<!--   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://www.vhv.rs/dpng/d/611-6114310_microsoft-power-bi-logo-png-picture-power-bi.png" height="40" alt="powerbi logo" />
   </a>
   <img width="12" />
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://i.pinimg.com/236x/b4/47/ff/b447ff91c4591008383512eec64d1d96.jpg?nii=t" height="40" alt="excel logo" />
-  </a>
+  </a> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
