@@ -21,15 +21,23 @@ I wield the power of:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.i1VVFlpvwIqJme_E-xrGWQHaDv?rs=1&pid=ImgDetMain" height="40" alt="powerbi logo" />
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn.imgbin.com/17/4/11/imgbin-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-0YHFrh9kfbym0sY2unTTdUaEC.jpg" height="40" alt="powerbi logo" />
+  </a>
   <img width="12" />
-  <img src="https://image.similarpng.com/very-thumbnail/2021/09/Microsoft-Excel-icon-design-on-transparent-background-PNG.png" height="40" alt="excel logo" />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://pluspng.com/img-png/excel-logo-png-microsoftexcel-logo-1-ms-excel-logo-transparent-free-840x516.jpg" height="40" alt="excel logo" />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.TbLsxJfkW5zSNi44vG0wMwHaCt?rs=1&pid=ImgDetMain" height="40" alt="express logo" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.8587dd0647ca.png" height="40" alt="express logo" />
+  </a>
   <img width="12" />
-  <img src="https://codesoftic.com/wp-content/uploads/2019/12/flask.png" height="40" alt="flask logo" />
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://codesoftic.com/wp-content/uploads/2019/12/flask.png" height="40" alt="flask logo" />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -37,7 +45,6 @@ I wield the power of:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
 </div>
-
 
 ## 🌟 Project Highlights
 
