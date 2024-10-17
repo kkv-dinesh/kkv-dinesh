@@ -54,13 +54,6 @@ I thrive in collaborative environments, valuing effective communication to ensur
 
 I am committed to continuous learning and staying at the forefront of data science. This drive fuels my exploration of new technologies, methodologies, and frameworks within the dynamic field of data science.
 
-
-### 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kkv-dinesh&" />
-</div>
-
 ### 
 
 <h3 align="left">🔥 My Stats :</h3>
@@ -70,7 +63,7 @@ I am committed to continuous learning and staying at the forefront of data scien
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkv-dinesh&theme=radical" height="220" alt="streak graph" />
 </div>
 
-### 🌐 Let's Connect 
+### 
 
 <h3 align="left">📫 Reach Me</h3>
 
