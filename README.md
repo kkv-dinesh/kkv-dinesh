@@ -56,6 +56,7 @@ I thrive in collaborative environments, valuing effective communication to ensur
 
 I am committed to continuous learning and staying at the forefront of data science. This drive fuels my exploration of new technologies, methodologies, and frameworks within the dynamic field of data science.
 
+
 ### 
 
 <h3 align="left">🔥 My Stats :</h3>
@@ -64,6 +65,8 @@ I am committed to continuous learning and staying at the forefront of data scien
   <img src="https://github-readme-stats.vercel.app/api?username=kkv-dinesh&show_icons=true&theme=radical&count_private=true" height="220" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkv-dinesh&theme=radical" height="220" alt="streak graph" />
 </div>
+
+<p align="center">🔹 Total Contributions in 2024 <img src="https://github-readme-stats.vercel.app/api/metrics?username=kkv-dinesh&include_all_commits=true&count_private=true" alt="contribution count" /></p>
 
 ### 
 
