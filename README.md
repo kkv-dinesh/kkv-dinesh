@@ -66,8 +66,6 @@ I am committed to continuous learning and staying at the forefront of data scien
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkv-dinesh&theme=radical" height="220" alt="streak graph" />
 </div>
 
-<p align="center">🔹 Total Contributions in 2024 <img src="https://github-readme-stats.vercel.app/api/metrics?username=kkv-dinesh&include_all_commits=true&count_private=true" alt="contribution count" /></p>
-
 ### 
 
 <h3 align="left">📫 Reach Me</h3>
