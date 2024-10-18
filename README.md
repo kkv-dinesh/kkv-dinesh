@@ -2,25 +2,24 @@
 
 ## 👋 About Me
 
-Python enthusiast and data analyst passionate about using data manipulation skills for informed decision-making. Collaborative team player with a mission to contribute to success through delivering actionable, data-driven solutions.
+I'm a passionate developer who loves turning ideas into reality through code. With a strong foundation in web development and databases, I thrive on solving complex problems and continuously learning new technologies. In my spare time, I enjoy contributing to open-source projects and exploring the latest industry trends.
 
 ## 🚀 Technical Proficiency
 
-In terms of technical skills, I excel in using Python for various data manipulation tasks, utilizing MySQL for database management, and harnessing the power of Power BI for effective data visualization.
-
-## 🔧 Language and Tools
+In terms of technical skills, I excel in Python, using Flask for robust applications and data analytics. My front-end skills include HTML and CSS for creating responsive web interfaces. On the server side, I'm experienced in Node.js and Express, developing RESTful APIs, and I work with databases like MySQL, PostgreSQL, SQLite, and MongoDB for efficient data management.
 
 I wield the power of:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
-  <img width="12" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Postman_logo.svg" height="40" alt="postman logo" style="background: none;" />
 <!--   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://www.vhv.rs/dpng/d/611-6114310_microsoft-power-bi-logo-png-picture-power-bi.png" height="40" alt="powerbi logo" />
   </a>
