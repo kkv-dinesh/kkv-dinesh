@@ -19,7 +19,7 @@ I wield the power of:
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Postman_logo.svg" height="40" alt="postman logo" style="background: none;" />
+<img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" height="40" alt="postman logo" />
 <!--   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://www.vhv.rs/dpng/d/611-6114310_microsoft-power-bi-logo-png-picture-power-bi.png" height="40" alt="powerbi logo" />
   </a>
