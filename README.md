@@ -61,7 +61,7 @@ I am committed to continuous learning and staying at the forefront of data scien
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkv-dinesh&show_icons=true&theme=radical" height="220" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkv-dinesh&show_icons=true&theme=radical&count_private=true" height="220" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkv-dinesh&theme=radical" height="220" alt="streak graph" />
 </div>
 
