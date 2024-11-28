@@ -6,10 +6,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Wi
 
 ## 🚀 Technical Proficiency
 
-In terms of technical skills, I excel in Python, using Flask for robust applications and data analytics. My front-end skills include HTML and CSS for creating responsive web interfaces. On the server side, I'm experienced in Node.js and Express, developing RESTful APIs, and I work with databases like MySQL, PostgreSQL, SQLite, and MongoDB for efficient data management.
-
-I wield the power of:
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 <img width="12" />
@@ -47,13 +43,10 @@ I wield the power of:
 ## 🌟 Project Highlights
 
 Explore my projects in my [GitHub repository](https://github.com/kkv-dinesh?tab=repositories). Each project reflects my dedication to delivering impactful solutions.
+
 ## 🤝 Collaboration and Communication
 
 I thrive in collaborative environments, valuing effective communication to ensure successful project outcomes. I am open to collaboration and excited about the prospect of working together on challenging and rewarding projects.
-
-## 📚 Continuous Learning
-
-I am committed to continuous learning and staying at the forefront of data science. This drive fuels my exploration of new technologies, methodologies, and frameworks within the dynamic field of data science.
 
 
 ### 
