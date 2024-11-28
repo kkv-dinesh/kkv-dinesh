@@ -46,8 +46,7 @@ I wield the power of:
 
 ## 🌟 Project Highlights
 
-Explore my projects in my [GitHub repository](https://github.com/kkv-dinesh?tab=repositories). Each project reflects my dedication to delivering impactful solutions using a combination of Python, MySQL, and Power BI.
-
+Explore my projects in my [GitHub repository](https://github.com/kkv-dinesh?tab=repositories). Each project reflects my dedication to delivering impactful solutions.
 ## 🤝 Collaboration and Communication
 
 I thrive in collaborative environments, valuing effective communication to ensure successful project outcomes. I am open to collaboration and excited about the prospect of working together on challenging and rewarding projects.
